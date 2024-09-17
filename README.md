@@ -11,9 +11,13 @@
 3. Key Steps:
 
 (a) Data Preprocessing: Cleaning the image data, cropping, resizing, and augmenting the images to create a diverse dataset.
-Feature Extraction: Using manual feature extraction techniques (such as SIFT, HOG) or deep learning models to automatically learn features from the images (using Convolutional Neural Networks - CNN).
-(b) Model Building: Training machine learning models (such as SVM, Decision Trees) or deep learning models (like CNN) to classify plant images based on their disease status.
-(c) Model Evaluation: Using metrics such as accuracy, F1-score, precision, and recall to assess the model's performance on test datasets.
+
+(b)Feature Extraction: Using manual feature extraction techniques (such as SIFT, HOG) or deep learning models to automatically learn features from the images (using Convolutional Neural Networks - CNN).
+
+(c) Model Building: Training machine learning models (such as SVM, Decision Trees) or deep learning models (like CNN) to classify plant images based on their disease status.
+
+(d) Model Evaluation: Using metrics such as accuracy, F1-score, precision, and recall to assess the model's performance on test datasets.
+
 4. Applications: This problem can be applied in smart agriculture systems, where mobile devices or drones capture plant images and detect diseases in real-time.
 
 5.Challenges:
