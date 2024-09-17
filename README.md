@@ -18,9 +18,9 @@
 
 (d) Model Evaluation: Using metrics such as accuracy, F1-score, precision, and recall to assess the model's performance on test datasets.
 
-4. Applications: This problem can be applied in smart agriculture systems, where mobile devices or drones capture plant images and detect diseases in real-time.
+### 4. Applications: This problem can be applied in smart agriculture systems, where mobile devices or drones capture plant images and detect diseases in real-time.
 
-5.Challenges:
+### 5.Challenges:
 
 * Data can be noisy due to varying lighting conditions, camera angles, or image quality.
 * Similar symptoms across different diseases may complicate the classification process.
